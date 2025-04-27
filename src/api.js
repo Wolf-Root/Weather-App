@@ -1,6 +1,6 @@
 export async function apiRequist(city) {
     const ApiKey = import.meta.env.VITE_API_KEY;
-    const ApiCall = `http://api.weatherapi.com/v1/current.json?key=${ApiKey}&q=${city}&aqi=no`;
+    const ApiCall = `https://api.weatherapi.com/v1/current.json?key=${ApiKey}&q=${city}&aqi=no`;
 
     try {
         const response = await fetch(ApiCall);
