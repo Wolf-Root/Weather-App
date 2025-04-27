@@ -13,6 +13,10 @@
 
 1. Clone the repository:
 
+```bash
+git clone https://github.com/Wolf-Root/Weather-App.git
+```
+
 2. Install dependencies:
 
 ```bash
