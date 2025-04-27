@@ -21,7 +21,6 @@ git clone https://github.com/Wolf-Root/Weather-App.git
 
 ```bash
 npm install
-git clone https://github.com/Wolf-Root/Weather-App.git
 ```
 
 3. Start the development server:
